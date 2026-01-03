@@ -1,10 +1,10 @@
-# My Project Collection 🚀
+# My Task Collection 🚀
 
-Welcome to my main hub. Here are my 4 completed projects:
+Welcome to my main hub. Here are my 4 completed tasks:
 
-| Project Name | Description | Link |
-| :--- | :--- | :--- |
-| **Project One** | A brief sentence about what this does. | [View Repository ↗️](https://github.com/ankitkg5/Weekend_Getaway_Ranker) |
-| **Project Two** | A brief sentence about what this does. | [View Repository ↗️](https://github.com/ankitkg5/Creative_Showcase) |
-| **Project Three** | A brief sentence about what this does. | [View Repository ↗️](https://github.com/ankitkg5/Spotify_Lyric_Search) |
-| **Project Four** | A brief sentence about what this does. | [View Repository ↗️](https://github.com/ankitkg5/Smart_ToDo_API) |
+| Task Name | Link |
+| :--- | :--- |
+| **Weekend_Getaway_Ranker** | [View Repository ↗️](https://github.com/ankitkg5/Weekend_Getaway_Ranker) |
+| **Creative_Showcase** | [View Repository ↗️](https://github.com/ankitkg5/Creative_Showcase) |
+| **Spotify_Lyric_Search** | [View Repository ↗️](https://github.com/ankitkg5/Spotify_Lyric_Search) |
+| **Smart_ToDo_API** | [View Repository ↗️](https://github.com/ankitkg5/Smart_ToDo_API) |
